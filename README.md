@@ -16,3 +16,5 @@ Three
 7
 
 8
+
+Silvana think she should be learning on command line.
