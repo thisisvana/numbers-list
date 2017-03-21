@@ -17,5 +17,4 @@ Three
 
 8
 
-Silvana think she should be learning on command line.
-This is what we are doing now
+b1 added
